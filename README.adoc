@@ -1,5 +1,7 @@
 :imagesdir: docs/images
 
+Small change
+
 image:https://circleci.com/gh/spring-cloud-services-samples/cook.svg?style=svg["CircleCI", link="https://circleci.com/gh/spring-cloud-services-samples/cook"]
 
 = Config Server sample
